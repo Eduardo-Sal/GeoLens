@@ -1,4 +1,4 @@
-# Vehicle Fleet Manager
+# GeoLens
 
 This project serves as a purpose-built fleet management system for large-scale logistics or transportation operations.
 
